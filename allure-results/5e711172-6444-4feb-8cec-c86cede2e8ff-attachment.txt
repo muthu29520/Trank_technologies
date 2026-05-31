@@ -1,0 +1,7 @@
+navigate to stock trading page
+navigate to paper trading page
+navigate to cfd trading page
+navigate to trading_app page
+navigate to algo page
+navigate to custom page
+failed to navigate the correct page
