@@ -16,7 +16,7 @@ class vertical_page:
         self.custom_trading= page.locator('(//a[@href="https://www.tranktechnologies.com/custom-trading-software-development-company"])[1]')
         self.web_portal= page.locator('(//a[text()="Web Portal Trading"])[1]')
         self.stock_page=page.locator('//li[text()="Stock Trading"]')
-        self.paper_page=page.locator('//li[text()="Paper Trading"]')
+        self.paper_page=page.locator('//a[text()="Paper Trading"]')
         self.cfd_page=page.locator('//li[text()="CFD Trading"]')
         self.trading_page=page.locator('//li[text()="Trading in Massachusetts"]')
         self.algo_page=page.locator('//li[text()="Algo Trading"]')
