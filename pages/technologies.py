@@ -20,7 +20,7 @@ class techno_page:
         self.laverl=page.locator('(//a[text()="Laravel Development"])[1]')
         self.presteashop=page.locator('(//a[text()="Prestashop Development"])[1]')
         self.drupal=page.locator('(//a[text()="Drupal Development"])[1]')
-        self.wix_develop=page.locator('(//a[text()="Wix Development"])[1]')
+        self.wix_develop=page.locator('(//a[@href="https://www.tranktechnologies.com/wix-development"])[1]')
         self.joomla=page.locator('(//a[text()="Joomla Development"])[1]')
         self.react_js=page.locator('(//a[text()="React JS Development"])[1]')
         self.express_js=page.locator('(//a[text()="Express JS Development"])[1]')
